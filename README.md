@@ -1,4 +1,4 @@
-<h1>
+<h1 align="center">
   Me chamo Rafael Moraes
 </h1>
 <h2>
