@@ -13,7 +13,7 @@
 <h3 align="center">You also can find me there</h3>
   
 <p align="center">
-  <a align="center" href = "mailto:Ra.fael00@hotmail.com"><img  align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a align="center" href = "mailto:Ra.fael00@hotmail.com"><img  align="center" src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/Ra_faelmoraes/" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Ra_faelmoraes" /></a>
 </p>  
   
