@@ -1,1 +1,1 @@
-<h1 align="center" color="black">Hi</h1>
+<h1 align="center" color="#000000">Hi</h1>
