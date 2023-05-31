@@ -1,5 +1,7 @@
 
-<h1 align="center" >Rafael Moraes</h1>
+<h1 align="center" >Rafael Moraes
+<img src="https://komarev.com/ghpvc/?username=DEV-MatheusDiniz&color=blue" alt="Visitas" />
+</h1>
 <hr/>
 - 🚀 Desenvolvedor Fullstack Junior
 - 🔗 Visite meu [LinkeDin](https://www.linkedin.com/in/rafael-moraes-84b629195/)
