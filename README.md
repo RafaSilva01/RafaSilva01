@@ -1,13 +1,12 @@
+
+<h1 align="center" >Rafael Moraes</h1>
+<hr/>
 - 🚀 Desenvolvedor Fullstack Junior
 - 🔗 Visite meu [LinkeDin](https://www.linkedin.com/in/rafael-moraes-84b629195/)
 - 🎓 Sistemas da Informação
 
 <hr/>
-
-<h1 align="center" >Ola,Me chamo Rafael</h1>
-<h3 align="center">Sou desenvolverdor junior tanto no back-end com Python, quanto no Front-end com React/</h3>
-<br>
-
+<h1>Dashboard</h1>
 <div align="center">
   <a href="https://github.com/RafaSilva01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaSilva01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
