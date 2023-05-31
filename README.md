@@ -1,3 +1,9 @@
+- 🚀 Desenvolvedor Fullstack Junior
+- 🔗 Visite meu [LinkeDin](https://www.linkedin.com/in/rafael-moraes-84b629195/)
+- 🎓 Sistemas da Informação
+
+<hr/>
+
 <h1 align="center" >Ola,Me chamo Rafael</h1>
 <h3 align="center">Sou desenvolverdor junior tanto no back-end com Python, quanto no Front-end com React/</h3>
 <br>
@@ -31,6 +37,9 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 
+### Apps
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Postman API](https://img.shields.io/badge/-Postman%20API-05122A?style=flat&logo=postman-api)&nbsp;
   
 
   
